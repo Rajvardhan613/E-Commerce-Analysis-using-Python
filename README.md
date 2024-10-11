@@ -1,4 +1,4 @@
-# E-Commerce-Analysis-using-Python
+# SQL-Python_Ecommerce_Project
 
 This repository contains a Jupyter Notebook that analyzes e-commerce data to provide insights into sales, customer behavior, and business performance.
 
